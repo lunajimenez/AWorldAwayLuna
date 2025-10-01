@@ -1,0 +1,20 @@
+# Entorno virtual
+Luna/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
