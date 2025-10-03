@@ -21,3 +21,6 @@ Thumbs.db
 
 # TOI imputer muy pesado
 toi_iterative_imputer.joblib
+
+# koi imputer no muy pesado pero no lo mostremos
+koi_iterative_imputer.joblib
