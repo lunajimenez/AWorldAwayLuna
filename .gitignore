@@ -24,3 +24,6 @@ toi_iterative_imputer.joblib
 
 # koi imputer no muy pesado pero no lo mostremos
 koi_iterative_imputer.joblib
+
+# k2 imputer no muy pesado pero no lo mostremos
+k2_iterative_imputer.joblib
